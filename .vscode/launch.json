@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Barnabas/Desktop/Cpp/Practice/DayOne",
-      "program": "c:/Users/Barnabas/Desktop/Cpp/Practice/DayOne/build/Debug/outDebug",
+      "cwd": "c:/Users/Barnabas/Desktop/Cpp/Practice/DayOne/OperatorControlPractice",
+      "program": "c:/Users/Barnabas/Desktop/Cpp/Practice/DayOne/OperatorControlPractice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
