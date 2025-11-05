@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Barnabas/Desktop/Cpp/Practice/ArraysAndStrings",
-      "program": "c:/Users/Barnabas/Desktop/Cpp/Practice/ArraysAndStrings/build/Debug/outDebug",
+      "cwd": "c:/Users/Barnabas/Desktop/Cpp/DSA",
+      "program": "c:/Users/Barnabas/Desktop/Cpp/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
